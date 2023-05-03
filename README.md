@@ -27,7 +27,7 @@ The Sedan and Truck classes are derived from the Car class and implement the bra
 The Main class creates objects of the Sedan and Truck classes and executes their gas() and brake() methods to check the correctness of the code.
 
 
-Zavd5: 
+Zavd5: https://github.com/RomanZalizniy/Laboratorna6-TR23/blob/main/Zavd5.java
 
 In this code, we declared a Baggage class with two private fields numberOfItems and totalWeight. The input() method allows the user to enter the number of items and the weight of each item separately using the Scanner object. The printTotalWeight() method displays the total weight of the luggage.
 
