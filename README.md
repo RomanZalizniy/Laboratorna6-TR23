@@ -1,0 +1,1 @@
+# Laboratorna6-TR23
